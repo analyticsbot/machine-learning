@@ -1,4 +1,4 @@
-# Ticketmaster System Design Briefing Doc
+# Ticketmaster System Design
 
 This document summarises key themes and insights from the video "System Design Interview: Design Ticketmaster w/ a Ex-Meta Staff Engineer". It highlights the process and considerations for designing a ticket booking system like Ticketmaster.
 
